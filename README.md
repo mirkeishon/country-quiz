@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://porfolio-two-pied.vercel.app/">
+    <a href="https://country-quiz.onrender.com/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/Yx7sGPyJCUBy0VqhpRG6">
+    <a href="https://devchallenges.io/solutions/JfZFoCgp46yOUxypWNf2">
       Solution
     </a>
     <span> | </span>
@@ -36,9 +36,9 @@
 
 ## Overview
 
-![portfolio](https://user-images.githubusercontent.com/94877748/155689216-e180ad0b-c672-4078-8c35-96ac804f5b9e.png)
+![country-quiz](https://user-images.githubusercontent.com/94877748/166079545-7b022ede-bc20-4398-afb7-213d49e52483.png)
 
-- You can find the demo in this [url](https://porfolio-two-pied.vercel.app/)
+- You can find the demo in this [url](https://country-quiz.onrender.com/)
 
 ### Built With
 
